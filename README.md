@@ -4,6 +4,8 @@
 
 **Dynamic Real Estate Listing site**  elegantly showcasing real estate property that provides a user-friendly interface to view property details, including images and descriptions, and offers a seamless appointment booking experience through the Calendly API.
 
+<img src=https://github.com/ItsReallyLucifer/sterlinglane/blob/adb2c7ef819834221bb370eefdcd19d84510373c/sterlingStatic.png>
+
 ## Features
 
 - **Property Listing**: Display a curated list of desirable features, each with an accompanying image and a concise description.
